@@ -7,3 +7,5 @@
 
 # AgilaMetoder
 
+FIGMA: https://www.figma.com/design/YMFIVPasAUlFPKMIfp2rXs/TailTransport?node-id=0-1&p=f&t=kArWJSFRcT34rcNk-0
+TRELLO : https://trello.com/b/dPCVSpI0/agile-board-template-trello
